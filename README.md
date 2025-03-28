@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Khwarazmi Robot – Motion Control with Arduino and LabVIEW</title>
-</head>
 <body>
   <h1>Khwarazmi Robot – Motion Control with Arduino and LabVIEW</h1>
 
